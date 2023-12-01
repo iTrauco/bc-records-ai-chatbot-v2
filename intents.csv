@@ -121,6 +121,38 @@ training_phrases
 parts 
 text: I want to return my t-shirt
 repeat_count: 1
+training_phrases 
+parts 
+text: test
+repeat_count: 1
+training_phrases 
+parts 
+text: gdxg
+repeat_count: 1
+training_phrases 
+parts 
+text: sdf
+repeat_count: 4
+training_phrases 
+parts 
+text: gds
+repeat_count: 1
+training_phrases 
+parts 
+text: dgf
+repeat_count: 1
+training_phrases 
+parts 
+text: dsfg
+repeat_count: 1
+training_phrases 
+parts 
+text: vxd
+repeat_count: 1
+training_phrases 
+parts 
+text: sfdf
+repeat_count: 1
 priority: 1
 name: projects/bot1-404120/locations/global/agents/4a2fde83-decc-4656-8995-1cbc2e3eeab4/intents/2ef22dc5-ed79-4bbc-b42e-70eddfb7d191
 display_name: redirect.artists.overview
