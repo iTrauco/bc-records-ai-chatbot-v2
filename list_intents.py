@@ -10,7 +10,7 @@ def list_intents():
 
     # Initialize request argument(s)
     request = dialogflowcx_v3.ListIntentsRequest(
-        parent="projects/bot1-404120/locations/global/agents/4a2fde83-decc-4656-8995-1cbc2e3eeab4",
+        parent="projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67",
     )
 
     # Make the request

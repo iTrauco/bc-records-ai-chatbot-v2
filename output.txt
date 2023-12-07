@@ -1,0 +1,374 @@
+name: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/00000000-0000-0000-0000-000000000000"
+display_name: "Default Start Flow"
+description: "A start flow created along with the agent"
+transition_routes {
+  name: "552e9f0c-62c7-45e5-9562-e56695c942ed"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/00000000-0000-0000-0000-000000000000"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+}
+transition_routes {
+  name: "f24279bb-38c8-4b7e-b819-e32ac8113042"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/1df9d201-9810-49f6-a856-889cab2351e0"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/817b1b9f-f87a-4c7e-a98b-0f4805f28bb3"
+}
+transition_routes {
+  name: "1f9180ea-46ff-441a-b1f8-c7c65c7118f5"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/5b6cef14-06fa-4afb-aa97-8ff34b9851ea"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/817b1b9f-f87a-4c7e-a98b-0f4805f28bb3"
+}
+transition_routes {
+  name: "39740095-dd40-4a0c-b465-8380a0d32898"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/ced59aa4-ae0f-42ab-a163-2b6996b5c25f"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/817b1b9f-f87a-4c7e-a98b-0f4805f28bb3"
+}
+transition_routes {
+  name: "0c23505a-567c-4203-b202-0d41a611a126"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/07fe0135-61ac-4196-a8cb-d1cec2012726"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/817b1b9f-f87a-4c7e-a98b-0f4805f28bb3"
+}
+transition_routes {
+  name: "d783222c-5f8b-4236-ab26-2b1b5cc709cf"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/d49b734e-36f5-4c19-aaf6-425000a3256a"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/817b1b9f-f87a-4c7e-a98b-0f4805f28bb3"
+}
+transition_routes {
+  name: "09228fe8-bff6-49e5-9f71-5ed17ea8a0cd"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/5b6cef14-06fa-4afb-aa97-8ff34b9851ea"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/817b1b9f-f87a-4c7e-a98b-0f4805f28bb3"
+}
+transition_routes {
+  name: "6832618b-b0c9-4b26-980c-3ed2a9ddc8d8"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/e89c48c3-7696-4727-9fe1-e89254d34ddc"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/4cebfd95-17a7-490e-a1f1-da064b5d2662"
+}
+transition_routes {
+  name: "4dec49ab-5956-495f-8e17-130d1c743a8c"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/9cf2d771-bc88-41ba-b840-a8faf7adca86"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/4cebfd95-17a7-490e-a1f1-da064b5d2662"
+}
+transition_routes {
+  name: "9f82f57c-3d1b-49cf-a04c-cbbd723915fc"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/3e3a27ac-8346-485d-a4d1-19572189a220"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/4cebfd95-17a7-490e-a1f1-da064b5d2662"
+}
+transition_routes {
+  name: "5874865d-7615-4fec-a61a-655e729618a0"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/2834423c-06bd-418a-8b43-06baebefda17"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/6575f4be-d26c-4f0c-9971-fe155fe4a939"
+}
+transition_routes {
+  name: "868fcc54-6d85-428c-b0f3-782901079999"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/e45125c3-9e6e-4002-b9f3-137cd9a9af8e"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/6575f4be-d26c-4f0c-9971-fe155fe4a939"
+}
+transition_routes {
+  name: "b297521e-8aa4-4f42-a157-c8b42405ccff"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/256cbd8e-1cd7-4eee-b807-5aadbc36951b"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_flow: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/6575f4be-d26c-4f0c-9971-fe155fe4a939"
+}
+transition_routes {
+  name: "f0185dd0-9070-4047-8f2f-ae3d80c8e92f"
+  intent: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/intents/58fa6af9-6f07-4209-8171-ffd8c2a5deab"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Response to default welcome intent."
+      }
+    }
+  }
+  target_page: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/00000000-0000-0000-0000-000000000000/pages/e98c3884-fe42-4d58-97ff-737ebfce69c9"
+}
+event_handlers {
+  name: "08005a9c-c8fb-49f6-b21f-76d2c4613076"
+  event: "custom-event"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "This is a default flow."
+      }
+    }
+  }
+}
+event_handlers {
+  name: "51670831-b3b8-48f3-96ea-e23b94c26acf"
+  event: "sys.no-match-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "We\'ve updated the default flow no-match response!"
+      }
+    }
+  }
+}
+event_handlers {
+  name: "a906416d-9533-436c-bb11-b7a7578ec600"
+  event: "sys.no-input-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "We\'ve updated the default flow no-input response!"
+      }
+    }
+  }
+}
+nlu_settings {
+  model_type: MODEL_TYPE_STANDARD
+  classification_threshold: 0.3
+}
+
+name: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/4cebfd95-17a7-490e-a1f1-da064b5d2662"
+display_name: "Customer Care Flow"
+description: "Customer Care Flow"
+event_handlers {
+  name: "14aace9f-ea28-4453-b771-c67781554ca6"
+  event: "custom-event"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "I didn\'t get that. Can you say it again?"
+      }
+    }
+  }
+}
+event_handlers {
+  name: "1be2249a-04ff-4a63-904c-ceb8541a0cb2"
+  event: "sys.no-match-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Sorry, could you say that again?"
+      }
+    }
+  }
+}
+event_handlers {
+  name: "9125fe8d-65a9-4725-ad61-6b122443ef88"
+  event: "sys.no-input-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "One more time?"
+      }
+    }
+  }
+}
+nlu_settings {
+  model_type: MODEL_TYPE_STANDARD
+  classification_threshold: 0.3
+}
+
+name: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/53b85278-7848-44e8-b9c4-0c92535727f0"
+display_name: "Order Process Flow"
+description: "Order Process Flow"
+event_handlers {
+  name: "120ab9f7-45c5-48ce-b98e-ffa8223926ef"
+  event: "custom-event"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "I didn\'t get that. Can you say it again?"
+      }
+    }
+  }
+}
+event_handlers {
+  name: "c2478bb3-8d89-453e-839c-fdf676d10b41"
+  event: "sys.no-match-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Sorry, could you say that again?"
+      }
+    }
+  }
+}
+event_handlers {
+  name: "1880546d-bc52-47d9-9c10-965fff113cc0"
+  event: "sys.no-input-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "One more time?"
+      }
+    }
+  }
+}
+nlu_settings {
+  model_type: MODEL_TYPE_STANDARD
+  classification_threshold: 0.3
+}
+
+name: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/6575f4be-d26c-4f0c-9971-fe155fe4a939"
+display_name: "My Order Flow"
+description: "My Order Flow"
+event_handlers {
+  name: "55955dd5-ca12-4827-a83d-b8db8dd0980d"
+  event: "custom-event"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "I didn\'t get that. Can you say it again?"
+      }
+    }
+  }
+}
+event_handlers {
+  name: "2a186712-ae52-4a19-a31f-ee3e5625680f"
+  event: "sys.no-match-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Sorry, could you say that again?"
+      }
+    }
+  }
+}
+event_handlers {
+  name: "0943c563-176b-48be-ad0c-66eed43e0896"
+  event: "sys.no-input-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "One more time?"
+      }
+    }
+  }
+}
+nlu_settings {
+  model_type: MODEL_TYPE_STANDARD
+  classification_threshold: 0.3
+}
+
+name: "projects/bot1-404120/locations/global/agents/79c5a35e-32a9-403b-ad36-d24f4f7d5d67/flows/817b1b9f-f87a-4c7e-a98b-0f4805f28bb3"
+display_name: "Catalog Flow"
+description: "Catalog Flow"
+event_handlers {
+  name: "ff105579-40d0-4333-80cf-e18ca04caad4"
+  event: "custom-event"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "I didn\'t get that. Can you say it again?"
+      }
+    }
+  }
+}
+event_handlers {
+  name: "9f9728d4-64dd-4814-884c-bac573c61006"
+  event: "sys.no-match-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "Sorry, could you say that again?"
+      }
+    }
+  }
+}
+event_handlers {
+  name: "9e01449f-44cf-4079-98f3-c9c797716790"
+  event: "sys.no-input-default"
+  trigger_fulfillment {
+    messages {
+      text {
+        text: "One more time?"
+      }
+    }
+  }
+}
+nlu_settings {
+  model_type: MODEL_TYPE_STANDARD
+  classification_threshold: 0.3
+}
+
+None
+stuff
